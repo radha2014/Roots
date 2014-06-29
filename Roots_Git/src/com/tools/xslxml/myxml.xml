@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet type="text/xsl" href="myxslt.xsl"?>
+
+<catalog>
+	<cd>
+		<title>Empire Burlesque</title>
+		<artist>Bob Dylan</artist>
+		<country>USA</country>
+		<company>Columbia</company>
+		<url>http://www.Columbia.com</url>
+		<photo src="images/cal.jpg" alt="my cal"></photo>
+		<!--
+		<photo>
+			<imgurl>images/cal.jpg</imgurl>
+			<alttxt>my cal</alttxt>
+		</photo>
+		-->
+		<price>10.90</price>
+		<year>1985</year>
+	</cd>
+	<cd>
+		<title>Hide your heart</title>
+		<artist>Bonnie Tyler</artist>
+		<country>UK</country>
+		<company>CBS Records</company>
+		<url>www.CBS Records.com</url>
+		<price>9.90</price>
+		<year>1988</year>
+	</cd>
+	<cd>
+		<title>Greatest Hits</title>
+		<artist>Dolly Parton</artist>
+		<country>USA</country>
+		<company>RCA</company>
+		<url>www.RCA.com</url>
+		<price>9.90</price>
+		<year>1982</year>
+	</cd>
+	<cd>
+		<title>Still got the blues</title>
+		<artist>Gary Moore</artist>
+		<country>UK</country>
+		<company>Virgin records</company>
+		<url>www.Virgin records.com</url>
+		<price>10.20</price>
+		<year>1990</year>
+	</cd>
+	<cd>
+		<title>Eros</title>
+		<artist>Eros Ramazzotti</artist>
+		<country>EU</country>
+		<company>BMG</company>
+		<url>www.BMG.com</url>
+		<price>9.90</price>
+		<year>1997</year>
+	</cd>
+</catalog>
+
